@@ -162,7 +162,7 @@ If not found, php, ssh and python modoules will be installed on first run
 
 - [![Gmail](https://img.shields.io/badge/Gmail-s14mbro1@gmail.com-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-Skill Siam-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+- [![Facebook](https://img.shields.io/badge/Facebook-SkillSiam-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-Skill Siam-green?style=for-the-badge&logo=messenger)](https://m.me/skillsiam1245)
+- [![Messenger](https://img.shields.io/badge/Messenger-SkillSiam-green?style=for-the-badge&logo=messenger)](https://m.me/skillsiam1245)
 

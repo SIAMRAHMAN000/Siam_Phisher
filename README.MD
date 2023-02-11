@@ -1,10 +1,12 @@
 <h1 align="center">🤓 Siam_Phisher 😎</h1>
 
-<h4 align="center">😁 You Will Use This Tool Below 2 Methods 😁</h4>
+
+<h1 align="center">😁 You Will Use This Tool Below 2 Methods 😁</h1>
+
 
 ### [~] Method 1 :
 
-<h2 align="center">😁Use Method 1 Run And Enjoy This Tool 😎</h2>
+<h4 align="center">😁Use Method 1 Run And Enjoy This Tool 😎</h4>
 
 ```
 pip install siamphisher

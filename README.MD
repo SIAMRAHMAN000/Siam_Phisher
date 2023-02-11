@@ -6,7 +6,7 @@
 
 ### [~] Method 1 :
 
-<h4 align="center">😁Use Method 1 Run And Enjoy This Tool 😎</h4>
+<h3 align="center">😁Use Method 1 Run And Enjoy This Tool 😎</h3>
 
 ```
 pip install siamphisher
@@ -17,7 +17,7 @@ Type : siamphisher
 
 ### [~] Method 2 :
 
-<h4 align="center">😎Use Method 2 Run And Enjoy This Tool 😁</h4>
+<h3 align="center">😎Use Method 2 Run And Enjoy This Tool 😁</h3>
 
 ```
 git clone https://github.com/SIAMRAHMAN000/Siam_Phisher

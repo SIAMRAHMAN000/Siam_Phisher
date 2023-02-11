@@ -3,15 +3,20 @@
 <h2 align="center">😁 You Will Use This Tool Below 2 Methods 😁</h2>
 
 ### [~] Method 1 :
+
+<h2 align="center">😁Use Method 1 Run And Enjoy This Tool 😎</h2>
+
 ```
 pip install siamphisher
 ```
 ```
 Type : siamphisher
 ```
-<h2 align="center">😁Use Method 1 Run And Enjoy This Tool 😎</h2>
 
 ### [~] Method 2 :
+
+<h2 align="center">😎Use Method 2 Run And Enjoy This Tool 😁</h2>
+
 ```
 git clone https://github.com/SIAMRAHMAN000/Siam_Phisher
 ```
@@ -21,7 +26,6 @@ cd Siam_Phisher
 ```
 python3 siamphisher.py
 ```
-<h2 align="center">😎Use Method 1 Run And Enjoy This Tool 😁</h2>
 
 ### [√] Description :
 

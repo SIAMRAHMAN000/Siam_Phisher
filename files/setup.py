@@ -6,15 +6,14 @@ version = open("files/version.txt").read().strip()
 long_description = open("README.md").read().strip()
 
 setup(
-    name='MaxPhisher',
+    name='Siam_Phisher',
     version=version,
     description='A python phishing script for login phishing, image phishing video phishing an many more!',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    author='KasRoudra',
-    author_email='kasroudrakrd@gmail.com',
+    author='Siam Rahman',
+    author_email='s14mbro1@gmail.com',
     license="MIT",
-    url='https://github.com/KasRoudra/MaxPhisher/',
-    scripts=['maxphisher'],
+    scripts=['siamphisher'],
     install_requires=["requests", "bs4", "rich"]
 )

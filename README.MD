@@ -1,6 +1,6 @@
 <h1 align="center">🤓 Siam_Phisher 😎</h1>
 
-<h2 align="center">😁 You Will Use This Tool Below 2 Methods 😁</h2>
+<h4 align="center">😁 You Will Use This Tool Below 2 Methods 😁</h4>
 
 ### [~] Method 1 :
 
@@ -15,7 +15,7 @@ Type : siamphisher
 
 ### [~] Method 2 :
 
-<h2 align="center">😎Use Method 2 Run And Enjoy This Tool 😁</h2>
+<h4 align="center">😎Use Method 2 Run And Enjoy This Tool 😁</h4>
 
 ```
 git clone https://github.com/SIAMRAHMAN000/Siam_Phisher

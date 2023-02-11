@@ -21,7 +21,7 @@ cd Siam_Phisher
 ```
 python3 siamphisher.py
 ```
-<h2 align="center😎Use Method 2 Run And Enjoy This Tool 😁</h2>
+<h2 align="center">😎Use Method 1 Run And Enjoy This Tool 😁</h2>
 
 ### [√] Description :
 

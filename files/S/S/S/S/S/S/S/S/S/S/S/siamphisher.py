@@ -8,7 +8,7 @@
 # Contact    : https://m.me/skillsiam1245
 # Description: SiamPhisher is a phishing tool in python
 # Tags       : Multi phishing, login phishing, image phishing, video phishing, clipboard steal
-# 1st Commit : 08/9/2022
+# 1st Commit : 08/2/2023
 # Language   : Python
 # Portable file/script
 # If you copy open source code, consider giving credit

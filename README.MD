@@ -1,5 +1,3 @@
-<h1 align="center">Currently Disable 😁</h1>
-
 <h1 align="center">🤓 Siam_Phisher 😎</h1>
 
 <h3 align="center">{ CODE WITH 💚 BY SIAM RAHMAN }</h3>

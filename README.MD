@@ -1,16 +1,21 @@
-<h1 align="center">🤓 Siam_Phisher 😎</h1>
+<h1 align="center">MaxPhisher</h1>
 
-<h3 align="center">{ CODE WITH 💚 BY SIAM RAHMAN }</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.1-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/KasRoudra/MaxPhisher?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/KasRoudra/MaxPhisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/KasRoudra/MaxPhisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/KasRoudra/MaxPhisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/KasRoudra/MaxPhisher?style=for-the-badge&color=blue">
+  <img src="https://hits.dwyl.com/KasRoudra/MaxPhisher.svg" width="140" height="28">
+<br>
+<br>
+  <img src="https://img.shields.io/badge/Author-KasRoudra-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
+</p>
 
-```
-git clone https://github.com/SIAMRAHMAN000/Siam_Phisher
-```
-```
-cd Siam_Phisher
-```
-```
-python3 siamphisher.py
-```
 
 ### [√] Description :
 
@@ -31,32 +36,32 @@ python3 siamphisher.py
 
 ##### Clone this repository
 
- - ```git clone https://github.com/SIAMRAHMAN000/Siam_Phisher```
+ - ```git clone https://github.com/KasRoudra/MaxPhisher```
 
 ##### Enter the directory
- - ```cd Siam_Phisher```
+ - ```cd MaxPhisher```
 
 ##### Install all modules
  - ```pip3 install -r files/requirements.txt```
 
 ##### Run the tool
- - ```python3 siamphisher.py```
+ - ```python3 maxphisher.py```
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/SIAMRAHMAN000/Siam_Phisher/main/siamphisher.py && python3 siamphisher.py
+wget https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/MaxPhisher.py && python3 maxphisher.py
 
 ```
 
 ### Pip
- - `pip3 install siamphisher` [For Termux]
- - `sudo pip3 install siamphisher` [For Linux]
- - `siamphisher`
+ - `pip3 install maxphisher` [For Termux]
+ - `sudo pip3 install maxphisher` [For Linux]
+ - `maxphisher`
 
 ### Docker
 
- - `sudo docker pull SIAMRAHMAN000/siamphisher`
- - `sudo docker run --rm -it SIAMRAHMAN000/siamphisher`
+ - `sudo docker pull kasroudra/maxphisher`
+ - `sudo docker run --rm -it kasroudra/maxphisher`
 
 
 ### Support
@@ -73,7 +78,7 @@ BSD        | Never tested
 #### Options
 
 ```
-usage: siamphisher.py [-h] [-p PORT] [-t TYPE] [-o OPTION]
+usage: maxphisher.py [-h] [-p PORT] [-t TYPE] [-o OPTION]
                      [-T TUNNELER] [-r REGION] [-S SUBDOMAIN]
                      [-d DIRECTORY] [-f FEST] [-i YTID] [-u URL]
                      [-s DURATION] [-m MODE] [-e TROUBLESHOOT]
@@ -81,11 +86,11 @@ usage: siamphisher.py [-h] [-p PORT] [-t TYPE] [-o OPTION]
 
 options:
   -h, --help            show this help message and exit
-  -p PORT, --port PORT  Siamphisher's server port [Default : 8080]
-  -t TYPE, --type TYPE  Siamphisher's phishing type index [Default :
+  -p PORT, --port PORT  MaxPhisher's server port [Default : 8080]
+  -t TYPE, --type TYPE  MaxPhisher's phishing type index [Default :
                         null]
   -o OPTION, --option OPTION
-                        Siamphisher's template index [ Default : null ]
+                        MaxPhisher's template index [ Default : null ]
   -T TUNNELER, --tunneler TUNNELER
                         Tunneler to be chosen while url shortening
                         [Default : Cloudflared]
@@ -106,7 +111,7 @@ options:
   -s DURATION, --duration DURATION
                         Media duration while capturing [Default :
                         5000(ms)]
-  -m MODE, --mode MODE  Mode of Siamphisher [Default: normal]
+  -m MODE, --mode MODE  Mode of MaxPhisher [Default: normal]
   -e TROUBLESHOOT, --troubleshoot TROUBLESHOOT
                         Troubleshoot a tunneler [Default: null]
   --nokey               Use localtunnel without ssh key [Default:
@@ -159,22 +164,31 @@ If not found, php, ssh and python modoules will be installed on first run
 4. Send the generated link to victim
 5. Wait for victim login. As soon as he/she logs in, credentials will be captured
 
+<h1 align="center">Example</h1>
+
+![MaxPhisher](https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/files/maxphisher.gif)
+
+ 
 ## [!] Disclaimer
-***This tool is developed for educational purposes. Here it demonstrates how phishing works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of Siam Phisher!***
+***This tool is developed for educational purposes. Here it demonstrates how phishing works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of MaxPhisher!***
 
 #### Want to show support? Just spread the word and smash the star button
 
-## Code By:
-
-[SIAM RAHMAN](https://github.com/SIAMRAHMAN000/)
+## Credits:
+[PyPhisher](https://github.com/KasRoudra/PyPhisher)
+[CamHacker](https://github.com/KasRoudra/CamHacker)
+[VidPhisher](https://github.com/KasRoudra/VidPhisher)
+[IP-Tracker](https://github.com/KasRoudra/IP-Tracker)
+[Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
+[Seeker](https://github.com/thewhiteh4t/seeker)
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-SIAMRAHMAN000-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-s14mbro1@gmail.com-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-SkillSiam-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-SkillSiam-green?style=for-the-badge&logo=messenger)](https://m.me/skillsiam1245)
+- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
 

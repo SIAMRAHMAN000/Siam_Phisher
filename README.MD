@@ -1,7 +1,20 @@
 <h1 align="center">🤓 Siam_Phisher 😎</h1>
 
 <h1 align="center"> { Made With 💚 By Siam Rahman }</h1>
-
+###
+### [+] Installation :
+```
+rm -rf Siam_Phisher
+```
+```
+git clone https://github.com/SIAMRAHMAN000/Siam_Phisher
+```
+```
+cd Siam_Phisher
+```
+```
+python3 siamphisher.py
+```
 
 ### [√] Description :
 

@@ -22,19 +22,28 @@ siamphisher
 ```
 <h4 align="center"> 😎 METHORD 1 RUN SUCCESSFULL 🤓</h4>
 
-### [+] Installation :
+<h2 align="center"> 😎 METHORD 2 🤓</h2>
+
+### [>] METHOD :
+# STEP 1
 ```
 rm -rf Siam_Phisher
 ```
+# STEP 2
 ```
 git clone https://github.com/SIAMRAHMAN000/Siam_Phisher
 ```
+# STEP 3
 ```
 cd Siam_Phisher
 ```
+# STEP 3
 ```
 python3 siamphisher.py
 ```
+
+<h4 align="center"> 😎 METHORD 2 RUN SUCCESSFULL 🤓</h4>
+
 
 ### [√] Description :
 

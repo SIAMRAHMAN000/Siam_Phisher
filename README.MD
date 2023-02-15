@@ -37,7 +37,7 @@ git clone https://github.com/SIAMRAHMAN000/Siam_Phisher
 ```
 cd Siam_Phisher
 ```
-# STEP 3
+# STEP 4
 ```
 python3 siamphisher.py
 ```

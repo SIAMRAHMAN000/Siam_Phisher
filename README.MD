@@ -44,6 +44,11 @@ python3 siamphisher.py
 
 <h4 align="center"> 😎 METHORD 2 RUN SUCCESSFULL 🤓</h4>
 
+### [!] ERROR :
+> Don't Run It On Windows. Windows User Use It On => https://shell.cloud.google.com/
+
+
+
 
 ### [√] Description :
 

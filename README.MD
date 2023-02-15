@@ -20,7 +20,7 @@ pip install siamphisher
 ```
 siamphisher
 ```
-<h2 align="center"> 😎 METHORD 1 RUN SUCCESSFULL 🤓</h2>
+<h4 align="center"> 😎 METHORD 1 RUN SUCCESSFULL 🤓</h4>
 
 ### [+] Installation :
 ```

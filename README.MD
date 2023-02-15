@@ -10,12 +10,12 @@
 ```
 pip uninstall siamphisher
 ```
-#STEP 2
+# STEP 2
 
 ```
 pip install siamphisher
 ```
-#STEP 3
+# STEP 3
 ### TYPE :
 ```
 siamphisher

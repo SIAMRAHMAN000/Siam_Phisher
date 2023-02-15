@@ -2,7 +2,25 @@
 
 <h2 align="center"> { Made With 💚 By Siam Rahman }</h2>
 <h2 align="center"></h2>
-<h2 align="center"> 😁USE THIS TOOL IN 2 METHORDS😁 </h2>
+<h2 align="center"> 😁USE THIS TOOL IN 2 METHODS😁 </h2>
+<h2 align="center"> 😎 METHORD 1 🤓</h2>
+
+### [>] METHOD :
+# STEP 1
+```
+pip uninstall siamphisher
+```
+#STEP 2
+
+```
+pip install siamphisher
+```
+#STEP 3
+### TYPE :
+```
+siamphisher
+```
+<h2 align="center"> 😎 METHORD 1 RUN SUCCESSFULL 🤓</h2>
 
 ### [+] Installation :
 ```

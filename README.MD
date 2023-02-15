@@ -2,6 +2,7 @@
 
 <h2 align="center"> { Made With 💚 By Siam Rahman }</h2>
 <h2 align="center"></h2>
+<h2 align="center"> 😁USE THIS TOOL IN 2 METHORDS😁 </h2>
 
 ### [+] Installation :
 ```

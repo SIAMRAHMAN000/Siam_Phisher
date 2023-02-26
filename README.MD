@@ -7,7 +7,7 @@
 
 ### [>] METHOD :
 # STEP 1
-```
+```bash
 pip uninstall siamphisher
 ```
 # STEP 2

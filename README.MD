@@ -209,5 +209,20 @@ If not found, php, ssh and python modoules will be installed on first run
 - [![Facebook](https://img.shields.io/badge/Facebook-SIAMRAHMAN000-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
 
 - [![Messenger](https://img.shields.io/badge/Messenger-SIAMRAHMAN000-green?style=for-the-badge&logo=messenger)](https://m.me/skillsiam1245)
-### SENDER MAIL : siamphisher0@gmail.com : SIAMRAHMAN1****
+
+<h1 align="center">PERSONAL AREA</h1>
+> SENDER MAIL : siamphisher0@gmail.com : SIAMRAHMAN*****
+> BACKUP CODE : 
+> 7206 1989
+> 0779 3005
+> 0254 6870
+> 0341 3351
+? 0555 4781
+> 2791 0523
+> 4297 7293
+> 1924 8725
+> 1753 0810
+> 5397 6568
+
+> lbdfjvbfilngojgp
 

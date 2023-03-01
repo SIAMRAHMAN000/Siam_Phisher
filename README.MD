@@ -211,7 +211,7 @@ If not found, php, ssh and python modoules will be installed on first run
 - [![Messenger](https://img.shields.io/badge/Messenger-SIAMRAHMAN000-green?style=for-the-badge&logo=messenger)](https://m.me/skillsiam1245)
 
 <h1 align="center">PERSONAL AREA</h1>
-> SENDER MAIL : siamphisher0@gmail.com : SIAMRAHMAN*****
+### RECIVER MAIL : siamphisher0@gmail.com : SIAMRAHMAN*****
 > BACKUP CODE : 
 > 7206 1989
 > 0779 3005
@@ -225,4 +225,19 @@ If not found, php, ssh and python modoules will be installed on first run
 > 5397 6568
 
 ### PWD FOR MAIL : lbdfjvbfilngojgp
+### SENDER MAIL : siamphishersender@gmail.com : SIAMRAHMAN*****
+> BACKUP CODE : 
+> 7872 8149
+> 4053 7813
+> 5661 7239
+> 7962 1969
+> 8679 6320
+> 7085 7797
+> 2701 4404
+> 5696 3514
+> 3233 9090
+> 0752 7753
+### PWD FOR MAIL : jeabzxmzjwoqkayu
+
+
 
